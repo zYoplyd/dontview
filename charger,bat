@@ -1,0 +1,2 @@
+xcopy pre.bat C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\pre.bat
+xcopy saix.bat C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startupsaix.bat
