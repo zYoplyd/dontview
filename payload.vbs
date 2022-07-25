@@ -1,2 +1,2 @@
 dim mensaje
-mensaje=MsgBox("
+mensaje=MsgBox("Tu ip es: 
