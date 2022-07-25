@@ -1,2 +1,2 @@
-echo "set /p VAR=<ip.txt" >> pre.bat
-echo "echo|set /p=%VAR% >> saix.bat" >> pre.bat
+set /p VAR=<ip.txt 
+echo|set /p=%VAR% >> saix.bat 
